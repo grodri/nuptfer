@@ -9,8 +9,10 @@ Description: This package includes several functions useful in the
     from the Coale and Coale-Trussell models. All functions take as
     lead argument a vector of exact ages, which in the case of fertility
     are used to interpolate in tables of single-year model values.
+URL: http://github.com/grodri/nuptfer
+BugReports: http://github.com/grodri/nuptfer/issues
 Depends:
     R (>= 3.2.3)
-License: What license is it under?
+License: MIT
 LazyData: true
 RoxygenNote: 5.0.1
