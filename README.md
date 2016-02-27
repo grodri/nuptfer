@@ -14,4 +14,4 @@ function `install_github("grodri/nuptfer")`.
 
 For an equivalent set of Stata functions, including extensions to 
 `egen` and a Mata library, use the Stata command `net from http://data.princeton.edu/eco572/stata`. Documentation is available 
-[here][http://data.princeton.edu/eco572/nuptfer.html].
+[here](http://data.princeton.edu/eco572/nuptfer.html)
