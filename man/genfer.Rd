@@ -4,18 +4,18 @@
 \alias{genfer}
 \title{The Coale-Trussell Fertility Model}
 \usage{
-genfer(age, level = 1, control = 20, mean, stdev)
+genfer(age, mean, stdev, level, control)
 }
 \arguments{
 \item{age}{vector of exact ages}
 
-\item{level}{scalar representing level (M * pem)}
-
-\item{control}{scalar representing degree of control (m)}
-
 \item{mean}{scalar representing mean age of entry into union}
 
 \item{stdev}{scalar representing std. dev. of age at union}
+
+\item{level}{scalar representing level (M * pem)}
+
+\item{control}{scalar representing degree of control (m)}
 }
 \description{
 Computes model general fertility rates by age

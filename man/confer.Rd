@@ -2,7 +2,7 @@
 % Please edit documentation in R/confer.R
 \name{confer}
 \alias{confer}
-\title{The Coale Model of Marital Fertility}
+\title{Coale's Schedule of Fertility Control}
 \usage{
 confer(age)
 }
